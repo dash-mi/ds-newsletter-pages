@@ -1,0 +1,7 @@
+{
+  "lastBuiltSubmittedAt": 1788360000000,
+  "lastUploadedSubmittedAt": 0,
+  "lastBuiltIssue": "190",
+  "stage": "error",
+  "note": "כל 4 הדומיינים של הכתבות חסומים על ידי ה-egress proxy — לא ניתן היה לבנות גיליון. ממתין לעדכון allowlist או להדבקת תוכן הכתבות ב-extraRequests."
+}
