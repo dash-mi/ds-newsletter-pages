@@ -1,8 +1,7 @@
 {
-  "lastBuiltSubmittedAt": 1788363000000,
+  "lastBuiltSubmittedAt": 1788366000000,
   "lastUploadedSubmittedAt": 0,
   "lastBuiltIssue": "190",
-  "stage": "building",
-  "lockedAt": 1788359950730,
-  "note": "מעבדת את גיליון 190 מחדש — הפעם דרך ה-fetch-articles workflow ב-GitHub Actions."
+  "stage": "draft_ready",
+  "note": "טיוטה מוכנה לבדיקה"
 }
