@@ -2,6 +2,7 @@
   "lastBuiltSubmittedAt": 1788363000000,
   "lastUploadedSubmittedAt": 0,
   "lastBuiltIssue": "190",
-  "stage": "error",
-  "note": "שליחה חוזרת של גיליון 190 — כל 4 הדומיינים עדיין חסומים על ידי ה-egress proxy (נבדק מחדש). ממתין לעדכון allowlist או להדבקת תוכן הכתבות ב-extraRequests."
+  "stage": "building",
+  "lockedAt": 1788359950730,
+  "note": "מעבדת את גיליון 190 מחדש — הפעם דרך ה-fetch-articles workflow ב-GitHub Actions."
 }
