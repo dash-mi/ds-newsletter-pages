@@ -2,6 +2,7 @@
   "lastBuiltSubmittedAt": 1788422118221,
   "lastUploadedSubmittedAt": 0,
   "lastBuiltIssue": "190",
-  "stage": "draft_ready",
-  "note": "טיוטה מוכנה לבדיקה - תוקן לוגו ד.ש הראשי במסטהד (נטען מקובץ מקומי במקום כתובת חיצונית של Zoho) לפי בקשת התיקון"
+  "stage": "building",
+  "lockedAt": 1788423871485,
+  "note": "מטפלת בבקשת תיקון: הלוגו הראשי במסטהד מעוות - מתקנת יחס גובה-רוחב בתבנית"
 }
