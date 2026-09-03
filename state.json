@@ -1,8 +1,7 @@
 {
-  "lastBuiltSubmittedAt": 1788423051540,
+  "lastBuiltSubmittedAt": 1788435093029,
   "lastUploadedSubmittedAt": 0,
-  "lastBuiltIssue": "190",
-  "stage": "building",
-  "lockedAt": 1788435200135,
-  "note": "מעבדת את גיליון 586 — שולפת את הכתבות"
+  "lastBuiltIssue": "586",
+  "stage": "draft_ready",
+  "note": "טיוטה של גיליון 586 מוכנה לבדיקה"
 }
