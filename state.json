@@ -2,7 +2,6 @@
   "lastBuiltSubmittedAt": 1788436304513,
   "lastUploadedSubmittedAt": 0,
   "lastBuiltIssue": "586",
-  "stage": "uploading",
-  "lockedAt": 1788445089115,
-  "note": "מנסה שוב להעלות ל-Zoho (ניסיון שלישי) אחרי שתי כשלות HTTP 500"
+  "stage": "error",
+  "note": "העלאה ל-Zoho נכשלה בשלישית ברצף (HTTP 500 זהה) - כנראה תקלה מתמשכת בחשבון/ב-API, לא זמנית. יש לבדוק מול Zoho."
 }
