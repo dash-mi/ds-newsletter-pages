@@ -2,6 +2,7 @@
   "lastBuiltSubmittedAt": 1788436304513,
   "lastUploadedSubmittedAt": 0,
   "lastBuiltIssue": "586",
-  "stage": "error",
-  "note": "העלאה ל-Zoho נכשלה (HTTP 500 מ-Zoho) - ריצה הבאה תנסה שוב"
+  "stage": "uploading",
+  "lockedAt": 1788444749021,
+  "note": "מנסה שוב להעלות ל-Zoho כטיוטה אחרי כשל קודם"
 }
