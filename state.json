@@ -1,8 +1,7 @@
 {
-  "lastBuiltSubmittedAt": 1788460000000,
+  "lastBuiltSubmittedAt": 1788422118221,
   "lastUploadedSubmittedAt": 0,
   "lastBuiltIssue": "190",
-  "stage": "building",
-  "lockedAt": 1788422638543,
-  "note": "מעבדת תיקון: בונה מחדש גיליון 190 - תיקון לוגו ד.ש הראשי במסטהד (כבר תוקן בקוד), לפי בקשת התיקון האחרונה"
+  "stage": "draft_ready",
+  "note": "טיוטה מוכנה לבדיקה - תוקן לוגו ד.ש הראשי במסטהד (נטען מקובץ מקומי במקום כתובת חיצונית של Zoho) לפי בקשת התיקון"
 }
