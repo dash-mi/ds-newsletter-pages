@@ -2,6 +2,7 @@
   "lastBuiltSubmittedAt": 1788450000000,
   "lastUploadedSubmittedAt": 0,
   "lastBuiltIssue": "190",
-  "stage": "draft_ready",
-  "note": "טיוטה מוכנה לבדיקה - הוזרקה לתוך תיבת הניוזלטר עצמה (שלב 6)"
+  "stage": "building",
+  "lockedAt": 1788421348770,
+  "note": "מעבדת תיקון: בונה מחדש גיליון 190 לפי בקשת התיקון (URL ל-Zoho, inline לתיבה, images/ בריפו הציבורי)"
 }
