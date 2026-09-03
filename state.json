@@ -1,8 +1,7 @@
 {
-  "lastBuiltSubmittedAt": 1788422118221,
+  "lastBuiltSubmittedAt": 1788423051540,
   "lastUploadedSubmittedAt": 0,
   "lastBuiltIssue": "190",
-  "stage": "building",
-  "lockedAt": 1788423871485,
-  "note": "מטפלת בבקשת תיקון: הלוגו הראשי במסטהד מעוות - מתקנת יחס גובה-רוחב בתבנית"
+  "stage": "draft_ready",
+  "note": "טיוטה מוכנה לבדיקה - תוקן יחס הגובה-רוחב של הלוגו הראשי במסטהד (60x35 במקום 60x40, תואם לפרופורציה האמיתית של הקובץ)"
 }
