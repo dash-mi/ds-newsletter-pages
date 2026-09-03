@@ -1,8 +1,7 @@
 {
-  "lastBuiltSubmittedAt": 1788366000000,
+  "lastBuiltSubmittedAt": 1788440000000,
   "lastUploadedSubmittedAt": 0,
   "lastBuiltIssue": "190",
-  "stage": "building",
-  "lockedAt": 1788419129304,
-  "note": "בונה מחדש את גיליון 190 - עדכון לוגו למקורות ZUZNEWS ו-Channel22"
+  "stage": "draft_ready",
+  "note": "טיוטה מוכנה לבדיקה - תוקן לוגו ZUZNEWS/Channel22"
 }
