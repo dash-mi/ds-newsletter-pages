@@ -1,8 +1,7 @@
 {
-  "lastBuiltSubmittedAt": 1788450000000,
+  "lastBuiltSubmittedAt": 1788460000000,
   "lastUploadedSubmittedAt": 0,
   "lastBuiltIssue": "190",
-  "stage": "building",
-  "lockedAt": 1788421348770,
-  "note": "מעבדת תיקון: בונה מחדש גיליון 190 לפי בקשת התיקון (URL ל-Zoho, inline לתיבה, images/ בריפו הציבורי)"
+  "stage": "draft_ready",
+  "note": "טיוטה מוכנה לבדיקה - נבנתה מחדש עם גרסת URL ל-Zoho, images/ בריפו הציבורי, ופייבקונים מעודכנים"
 }
