@@ -1,7 +1,7 @@
 {
   "lastBuiltSubmittedAt": 1788436304513,
-  "lastUploadedSubmittedAt": 0,
+  "lastUploadedSubmittedAt": 1788436304513,
   "lastBuiltIssue": "586",
-  "stage": "error",
-  "note": "7 ניסיונות ל-Zoho, כולם אותה שגיאת HTTP 500 כללית - גם עם בקשה מינימלית לגמרי. הסיבה הסבירה: topic_id (19 ספרות, מהממשק) כנראה לא תואם למזהה שה-API מצפה לו (17 ספרות בדוגמה הרשמית). צריך להוסיף הרשאת ZohoMarketingAutomation.lead.READ ל-Self Client וליצור refresh token חדש כדי שהקוד ישלוף את המזהה הנכון בעצמו - ראו cloud/ZOHO_SETUP.md. שום טיוטה לא נוצרה בפועל בחשבון."
+  "stage": "uploaded",
+  "note": "הועלה ל-Zoho כטיוטה בהצלחה (קמפיין 1480977000004893003) - האבחון הקודם (חוסר הרשאה) היה שגוי, הבאג האמיתי תוקן בקוד"
 }
